@@ -109,7 +109,7 @@ export default function Home() {
                 Backend Systems. Machine Intelligence.
               </p>
               <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
-                Hi, I'm <span className="text-[#E97451] block">Samudra</span>
+                Hi, I&#39;m <span className="text-[#E97451] block">Samudra</span>
                 Goswami from India.
               </h1>
 
