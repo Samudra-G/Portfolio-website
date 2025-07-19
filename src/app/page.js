@@ -158,7 +158,7 @@ export default function Home() {
           <div className="max-w-6xl mx-auto">
             <h2 className="text-4xl font-bold text-center mb-12">About Me</h2>
             <p className="text-lg text-center max-w-3xl mx-auto mb-12 leading-relaxed">
-              I'm a final-year Electronics and Communication Engineering student
+              I&#39;m a final-year Electronics and Communication Engineering student
               with a passion for building robust backend systems and exploring
               machine learning. I enjoy designing scalable APIs, working with
               databases, and deploying intelligent microservices...
