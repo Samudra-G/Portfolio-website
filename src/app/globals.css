@@ -27,3 +27,20 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+/* Neumorphic Logo effect */
+.neumorphic-logo {
+  background: #cc998d;
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.15),
+    -6px -6px 12px rgba(255, 255, 255, 0.5);
+}
+
+/* Optional for neumorphic image container */
+.neumorphic-image {
+  background: #cc998d;
+  border-radius: 50%;
+  box-shadow:
+    inset -6px -6px 12px rgba(255, 255, 255, 0.3),
+    inset 6px 6px 12px rgba(0, 0, 0, 0.1);
+}
