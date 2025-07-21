@@ -39,7 +39,7 @@ export default function CTAWhale() {
       <div className="absolute inset-0 bg-[url('/bg4.jpg')] bg-cover bg-center opacity-[0.08] pointer-events-none z-0" />
 
       <div className="relative z-10 max-w-6xl mx-auto text-center">
-        <h2 className="text-3xl sm:text-5xl font-bold mb-6 leading-tight">
+        <h2 className="text-4xl font-extrabold text-center mb-4 tracking-wide drop-shadow-[0_1px_1px_rgba(0,0,0,0.3)]">
           Let&#39;s build beautiful systems together
         </h2>
         <p className="text-lg text-alabaster/90 mb-10 max-w-xl mx-auto">

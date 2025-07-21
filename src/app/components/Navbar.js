@@ -11,12 +11,12 @@ export default function Navbar() {
   const toggleMenu = () => setIsMenuOpen((prev) => !prev);
 
   return (
-    <header className="w-full px-6 sm:px-10 py-6 flex items-center justify-between relative z-50 h-20 sm:h-24">
-      <div className="flex items-center h-12 sm:h-16 ml-8 sm:ml-12">
+    <header className="w-full px-6 sm:px-10 py-6 flex items-center justify-between relative z-50 h-20 sm:h-28">
+      <div className="flex items-center ml-2 sm:ml-8 h-[48px] sm:h-[80px]">
         <img
           src="/logo.png"
-          alt="Logo"
-          className="h-full w-auto object-contain brightness-110 drop-shadow-[0_0_8px_rgba(233,116,81,0.4)] hover:scale-110 transition-transform duration-300"
+          alt="Samudra Goswami Logo"
+          className="h-full w-auto max-w-[200px] sm:max-w-[300px] object-contain brightness-110 drop-shadow-[0_0_12px_rgba(233,116,81,0.45)] hover:scale-110 transition-transform duration-300"
         />
       </div>
 
