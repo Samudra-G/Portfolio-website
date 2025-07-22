@@ -12,7 +12,7 @@ export default function Navbar() {
 
   return (
     <header className="w-full px-6 sm:px-10 py-6 flex items-center justify-between relative z-50 h-20 sm:h-28">
-      <div className="flex items-center ml-2 sm:ml-8 h-[48px] sm:h-[80px]">
+      <div className="flex items-center ml-2 sm:ml-8 h-[48px] sm:h-[55px]">
         <img
           src="/logo.png"
           alt="Samudra Goswami Logo"
