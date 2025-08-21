@@ -121,7 +121,7 @@ export default function ContactSection() {
 
           <div>
             <a
-              href="/Samudra_Goswami_Resume.pdf"
+              href="/Samudra_Goswami_new_Resume.pdf"
               download
               className="inline-flex items-center gap-2 px-5 py-3 
                          bg-[#cc998d] text-[#F9F6EE] border border-white/20 
